@@ -42,6 +42,8 @@ To run this project locally:
      ```bash
    npm run dev
 
+The project will be available at [http://localhost:8080/home/index.html](http://localhost:8080/home/index.html)
+
 ## Connect with me
 
 **Kanika Mathur**  
