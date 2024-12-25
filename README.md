@@ -1,14 +1,14 @@
 # Cloudscape Design System Workshop
 
-This project is the result of completing the [Cloudscape Design System Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/5b7fe737-7ea2-4c4d-b572-76df6adabd47/en-US). The workshop guides you through building a responsive and accessible web application for cloud management using the open-source Cloudscape Design System.
+This project is the result of completing the [Cloudscape Design System Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/5b7fe737-7ea2-4c4d-b572-76df6adabd47/en-US). The workshop uses the open source Cloudscape Design System to build a responsive and accessible web application for cloud management. The web application will leverage the open-source React components offered by Cloudscape.
 
 ## Overview
 
-Cloudscape is an open-source design system developed by Amazon Web Services (AWS) for creating intuitive, engaging, and inclusive user experiences at scale. It provides a comprehensive set of guidelines, design resources, and front-end components to streamline web application development. :contentReference[oaicite:0]{index=0}
+The development started with an empty React TypeScript project and finished by building a basic Chocolate Factory application using Cloudscape components.
 
-## Workshop Steps
+## Application Layout
 
-The workshop is structured into three main steps:
+The project development was divided into three main steps:
 
 ### Step 1: Create the Basic Layout
 
@@ -38,9 +38,18 @@ To run this project locally:
    npm install
 
 2. **Start the development server**
+3. 
+     ```bash
    npm run dev
 
 ## Connect with me
 
-Github
-Linkedin
+**Kanika Mathur**  
+- [E-mail](mkanika.90@gmail.com)
+- [GitHub](https://github.com/KanikaGenesis)  
+- [LinkedIn](https://www.linkedin.com/in/kanika-mathur-083080121)
+
+## License
+
+This project from AWS is licensed under the MIT No Attribution License (MIT-0). For more details, see the [LICENSE](cloudscape-design-system-workshop/LICENSE) file.
+
